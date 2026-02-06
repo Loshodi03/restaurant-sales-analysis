@@ -1,0 +1,21 @@
+menu_item_id,item_name,category,base_cost,selling_price
+1,Steak Frites,main,4.06,16.07
+2,French Onion Soup,starter,9.53,5.21
+3,Crème Brûlée,dessert,7.45,8.72
+4,Salmon Niçoise,main,6.19,10.43
+5,Duck Confit,main,1.98,12.49
+6,Croissants,starter,1.98,20.06
+7,Escargots,starter,1.05,6.59
+8,Moules Marinières,main,8.73,13.83
+9,French Fries,side,6.21,15.63
+10,Baguette & Butter,side,7.23,3.07
+11,Ratatouille,main,0.7,15.97
+12,Beef Bourguignon,main,9.71,5.92
+13,Chocolate Fondant,dessert,8.41,3.5
+14,Crepes,dessert,2.52,23.82
+15,Cheese Board,starter,2.23,24.21
+16,House Salad,starter,2.24,20.59
+17,French Coffee,drink,3.39,9.01
+18,Red Wine,drink,5.49,4.25
+19,White Wine,drink,4.6,17.74
+20,Sparkling Water,drink,3.27,12.12
