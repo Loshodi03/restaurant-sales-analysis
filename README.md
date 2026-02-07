@@ -8,8 +8,8 @@ End-to-end restaurant sales analysis using SQL, Excel, Python, and Power BI. The
 - SQL (data cleaning & querying)
 - Excel (formulas)
 - Power BI (interactive dashboard)
-- python (in progress)
-- 
+- Python (in progress)
+
 
 
 ---
