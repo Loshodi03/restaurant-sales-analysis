@@ -1,4 +1,4 @@
-## restaurant-sales-analysis
+## Restaurant-Sales-Analysis
 End-to-end restaurant sales analysis using SQL, Excel, Python, and Power BI. The goal is to uncover trends in customer demand, revenue drivers and top performing menu items to support data-driven decision making.
 ## Cote St Paul's Restaurant Sales Analysis
 
